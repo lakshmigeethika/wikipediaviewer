@@ -1,0 +1,93 @@
+body{
+background: url("") no-repeat right fixed; 
+font-family: 'Hoefler Text', 'Times New Roman', 'Times New Roman', 'Times', 'serif'; 
+ }
+h1 .heading{
+  font-size: 50px;
+/*   margin:20px; */
+  margin-bottom: 75px;
+  width:25%;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+}
+.heading{
+  width: 47%;
+/*   left:50%; */
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+  font-size:50px;
+/*   padding:15px; */
+  margin-top:20px;
+  margin-bottom: 55px;
+/*   border-style:solid; */
+  
+}
+.randomButton{
+  margin:15px;
+  text-align: center;
+  background-color:black;
+  border-radius:5px;
+  border-style: outset;
+  color:white;
+  border-color:grey;
+  border-width:3px;
+  padding:10px;
+}
+
+.form{
+  padding: 30px;
+  
+}
+.form-control{
+  width: 25%;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+  border-style:solid;
+  border-width:5px;
+  border-color:black;
+}
+input[type=search]::-webkit-search-cancel-button {
+    -webkit-appearance: searchfield-cancel-button;
+}
+
+input{
+   text-align:center;
+}
+.result{
+  width: 85%;
+  margin-left:auto;
+  margin-right:auto;
+
+  
+}
+
+#resultHeading{
+  font-size:40px;
+  color: #242628;
+ 
+}
+
+ul{
+ 
+  list-style-type: none;
+}
+
+li{
+  padding : 10px;
+  margin:10px;
+  color:white;
+  background: #242628;
+  border-radius: 7px;
+  text-align:justify;
+}
+
+li h2 a{
+   color: white;
+  padding-top:10px;
+  text-align:left;
+  }
+
+
