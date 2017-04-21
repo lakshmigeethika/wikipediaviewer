@@ -2,6 +2,7 @@ body{
 background: url(" ") no-repeat center fixed; 
     
 font-family: 'Hoefler Text', 'Times New Roman', 'Times New Roman', 'Times', 'serif'; 
+    padding: 30px; 
  }
 .image{
     background: url("") no-repeat center fixed; 
