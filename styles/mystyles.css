@@ -4,9 +4,9 @@ background: url(" ") no-repeat center fixed;
 font-family: 'Hoefler Text', 'Times New Roman', 'Times New Roman', 'Times', 'serif'; 
  }
 .image{
-    background: url("http://media.npr.org/assets/img/2010/05/13/wikipedianew-b5fb48b75126cd0b9a6131b48275f9e21159b7a6-s900-c85.jpg") no-repeat center fixed; 
-    
-}
+    background: url("") no-repeat center fixed; 
+    }
+
 h1 .heading{
   font-size: 50px;
 /*   margin:20px; */
